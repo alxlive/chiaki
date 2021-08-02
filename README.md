@@ -19,3 +19,11 @@ the Touchpad button (i.e. deep-pressing on the touchpad on the PS4 controller).
 Previously, this was not supported, so one had to press "T" on the laptop
 keyboard to simulate a touchpad press. This was an inconvenience in games that
 used this button, such as Final Fantasy 7 Remake.
+
+# Pre-built binary
+
+I've pre-built the Mac OSX binary and shared it on [Google Drive](https://drive.google.com/drive/folders/1awbz263Ghe_0U7_HWKG2ieg-cmrkdhx0?usp=sharing).
+
+You shouldn't trust pre-built binaries downloaded from a random source on the
+Internet. But since I found it fairly difficult to build Chiaki on OSX, I'm
+providing this binary for convenience.
